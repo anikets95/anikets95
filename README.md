@@ -36,7 +36,7 @@ I'm always looking for opportunities to work with cutting-edge technologies and 
 
 Feel free to reach out if you'd like to collaborate, discuss technology, or just have a friendly chat. 😊
 
-You can also check out my professional profile README here : ![aniket-amagi](https://www.github.com/aniket-amagi) 
+You can also check out my professional profile README here : [aniket-amagi](https://www.github.com/aniket-amagi) 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=anikets95.anikets95)
 

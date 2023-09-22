@@ -36,16 +36,18 @@ I'm always looking for opportunities to work with cutting-edge technologies and 
 
 Feel free to reach out if you'd like to collaborate, discuss technology, or just have a friendly chat. 😊
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aniket-amagi.aniket-amagi)
+You can also check out my professional profile README here : ![aniket-amagi](https://www.github.com/aniket-amagi) 
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=anikets95.anikets95)
 
 ## Profile Details (Personal)
 <table>
   <tr>
     <td align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikets95&theme=transparent" width="400" height="200" alt="aniket-amagi" align = "center"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikets95&theme=transparent" width="400" height="200" align = "center"/>
     </td>
     <td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anikets95&show_icons=true&theme=transparent" width="400" height="200" alt="aniket-amagi" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anikets95&show_icons=true&theme=transparent" width="400" height="200" align = "center"/>
     </td>
   </tr>
   </table>
@@ -67,18 +69,18 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or just
 <table>
   <tr>
     <td align="center">
-<img src="/svg/metrics.base.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/anikets95/anikets95/main/svg/metrics.base.svg" align = "center"/>
     </td>
     <td align="center">
-<img src="/svg/metrics.plugin.calendar.full.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/anikets95/anikets95/main/svg/metrics.plugin.calendar.full.svg" align = "center"/>
     </td>
   </tr>
     <tr>
     <td align="center">
-<img src="/svg/metrics.plugin.isocalendar.fullyear.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/anikets95/anikets95/main/svg/metrics.plugin.isocalendar.fullyear.svg" align = "center"/>
     </td>
     <td align="center">
-<img src="/svg/metrics.plugin.achievements.svg" align = "center"/>
+<img src="https://raw.githubusercontent.com/anikets95/anikets95/main/svg/metrics.plugin.achievements.svg" align = "center"/>
     </td>
   </tr>
 </table>

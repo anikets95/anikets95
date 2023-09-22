@@ -1,0 +1,3 @@
+[submodule "aniket-amagi"]
+	path = aniket-amagi
+	url = https://github.com/aniket-amagi/aniket-amagi.git

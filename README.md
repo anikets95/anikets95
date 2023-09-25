@@ -1,17 +1,5 @@
 ## Hi there, I'm Aniket Sharma 👋
 
-I am a Staff Software Engineer in Amagi, specializing in Python, Cloud services - AWS, GCP,  Project Management - Atlassian(Jira and Confluence), CI/CD - CircleCI, ArgoWorkflows, ArgoCD. I hold a Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur and am currently pursuing my Masters in Computer Science at Georgia Tech University.
-
-### 🚀 About Me
-
-- 🔭 I’m passionate about implementing and launching new projects.
-- 🌱 I'm constantly learning and staying updated with the latest technologies.
-- 👯 I'm open to collaboration on innovative projects and ideas in ML.
-- 💬 Currently learning the depths of machine learning and statistics
-- 📫 Reach out to me: [anikets95@gmail.com](mailto:anikets95@gmail.com)
-- 😄 Pronouns: He/Him
-## Hi there, I'm Aniket Sharma 👋
-
 I am a Staff Software Engineer in [Amagi](https://www.amagi.com/), specializing in Python, Cloud services - AWS, GCP,  Project Management - Atlassian(Jira and Confluence), CI/CD - CircleCI, ArgoWorkflows, ArgoCD. 
 I hold a Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur and am currently pursuing my Masters in Computer Science (Machine Learning) at Georgia Tech University.
 

@@ -1,6 +1,19 @@
 ## Hi there, I'm Aniket Sharma 👋
 
-I am a Staff Software Engineer in Amagi, specializing in Python, AWS and GCP services, Atlassian Suite - Jira and Confluence, GitHub ,DynamoDB and SQL. I hold a Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur and am currently pursuing my Masters in Computer Science at Georgia Tech University.
+I am a Staff Software Engineer in Amagi, specializing in Python, Cloud services - AWS, GCP,  Project Management - Atlassian(Jira and Confluence), CI/CD - CircleCI, ArgoWorkflows, ArgoCD. I hold a Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur and am currently pursuing my Masters in Computer Science at Georgia Tech University.
+
+### 🚀 About Me
+
+- 🔭 I’m passionate about implementing and launching new projects.
+- 🌱 I'm constantly learning and staying updated with the latest technologies.
+- 👯 I'm open to collaboration on innovative projects and ideas in ML.
+- 💬 Currently learning the depths of machine learning and statistics
+- 📫 Reach out to me: [anikets95@gmail.com](mailto:anikets95@gmail.com)
+- 😄 Pronouns: He/Him
+## Hi there, I'm Aniket Sharma 👋
+
+I am a Staff Software Engineer in [Amagi](https://www.amagi.com/), specializing in Python, Cloud services - AWS, GCP,  Project Management - Atlassian(Jira and Confluence), CI/CD - CircleCI, ArgoWorkflows, ArgoCD. 
+I hold a Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur and am currently pursuing my Masters in Computer Science (Machine Learning) at Georgia Tech University.
 
 ### 🚀 About Me
 
@@ -15,15 +28,34 @@ I am a Staff Software Engineer in Amagi, specializing in Python, AWS and GCP ser
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** Python
-- **Cloud Services:** AWS , GCP
-- **Project Management:** Jira, Confluence and GitHub
-- **Database:** SQL, DynamoDB
+- **Programming Languages**: Proficient in Python.
+- **Cloud Services**: AWS, GCP.
+- **Project Management**: Atlassian (Jira and Confluence), GitHub
+- **CI/CD**: CircleCI, ArgoWorkflows, ArgoCD
+- **Database** : MySQL, SQlite, DynamoDB
 
 ### 📚 Education
 
 - Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur
 - Currently pursuing a Masters in Computer Science at Georgia Tech University
+
+### 📖 Courses Taken:
+
+Completed :
+- [CS 6035: Introduction to Information Security](https://omscs.gatech.edu/cs-6035-introduction-to-information-security)
+- [CS 6300: Software Development Process](https://omscs.gatech.edu/cs-6300-software-development-process)
+- [CS 6750: Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction)
+- [CS 7646: Machine Learning for Trading](https://omscs.gatech.edu/cs-7646-machine-learning-trading)
+- [CS 7641: Machine Learning](https://omscs.gatech.edu/cs-7641-machine-learning)
+- [CS 6603: AI, Ethics, and Society](https://omscs.gatech.edu/cs-6603-ai-ethics-and-society)
+- [ISYE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics)
+
+In-Progress:
+- [CS 7643: Deep Learning](https://omscs.gatech.edu/cs-7643-deep-learning)
+
+TBD:
+- [CS 6515: Intro to Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)
+
 
 ### 🌟 Goals
 

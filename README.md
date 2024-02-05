@@ -38,12 +38,9 @@ Completed :
 - [CS 6603: AI, Ethics, and Society](https://omscs.gatech.edu/cs-6603-ai-ethics-and-society)
 - [ISYE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics)
 - [CS 7638: Robotics: AI Techniques](https://omscs.gatech.edu/cs-7638-robotics-ai-techniques)
-
-
-In-Progress:
 - [CS 7643: Deep Learning](https://omscs.gatech.edu/cs-7643-deep-learning)
 
-TBD:
+In-Progress:
 - [CS 6515: Intro to Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)
 
 

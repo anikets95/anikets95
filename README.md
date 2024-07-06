@@ -20,6 +20,7 @@ Here are some of the technologies and tools I work with:
 - **Project Management**: Atlassian (Jira and Confluence), GitHub
 - **CI/CD**: CircleCI, ArgoWorkflows, ArgoCD
 - **Database**: MySQL, SQLite, DynamoDB
+- **ML libraries**: Pytorch, scikit-learn
 
 ### 📚 Education
 
@@ -68,17 +69,6 @@ You can also check out my professional profile README here : [aniket-amagi](http
   </tr>
   </table>
 
-## Profile Details (Amagi)
-<table>
-  <tr>
-    <td align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket-amagi&theme=transparent" width="400" height="200" alt="aniket-amagi" align = "center"/>
-    </td>
-    <td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket-amagi&show_icons=true&theme=transparent" width="400" height="200" alt="aniket-amagi" align = "center"/>
-    </td>
-  </tr>
-  </table>
 
 ## Metrics (Personal)
 

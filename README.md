@@ -1,11 +1,10 @@
 ## Hi there, I'm Aniket Sharma 👋
 
-I am a Staff Software Engineer in [Amagi](https://www.amagi.com/), specializing in Python, Cloud services - AWS, GCP,  Project Management - Atlassian(Jira and Confluence), CI/CD - CircleCI, ArgoWorkflows, ArgoCD. 
-I hold a Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur and am currently pursuing my Masters in Computer Science (Machine Learning) at Georgia Tech University.
+I am an experienced software engineer with a solid background of 7 years in backend development and 3 years in leadership roles. I hold a Master's degree in computer science specializing in machine learning from Georgia Tech University. My expertise includes proficiency in Python, SQL, and various ML libraries such as Pandas, PyTorch, scikit-learn, and Matplotlib. Additionally, I am well-versed in AWS services like S3, EC2, AWS Batch, SageMaker, EMR, and Athena. I began my academic journey at the National Institute of Technology Durgapur with a Bachelor's in Information Technology.
 
 ### 🚀 About Me
 
-- 🔭 I’m passionate about implementing and launching new projects.
+- 🔭 I’m passionate about implementing and launching new ML projects.
 - 🌱 I'm constantly learning and staying updated with the latest technologies.
 - 👯 I'm open to collaboration on innovative projects and ideas in ML.
 - 💬 Currently learning the depths of machine learning and statistics
@@ -20,12 +19,12 @@ Here are some of the technologies and tools I work with:
 - **Cloud Services**: AWS, GCP.
 - **Project Management**: Atlassian (Jira and Confluence), GitHub
 - **CI/CD**: CircleCI, ArgoWorkflows, ArgoCD
-- **Database** : MySQL, SQlite, DynamoDB
+- **Database**: MySQL, SQLite, DynamoDB
 
 ### 📚 Education
 
 - Bachelor’s Degree in Information Technology from the National Institute of Technology Durgapur
-- Currently pursuing a Masters in Computer Science at Georgia Tech University
+- Masters in Computer Science in Machine Learning at Georgia Tech University
 
 ### 📖 Courses Taken:
 
@@ -39,21 +38,19 @@ Completed :
 - [ISYE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics)
 - [CS 7638: Robotics: AI Techniques](https://omscs.gatech.edu/cs-7638-robotics-ai-techniques)
 - [CS 7643: Deep Learning](https://omscs.gatech.edu/cs-7643-deep-learning)
-
-In-Progress:
 - [CS 6515: Intro to Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)
 
 
 ### 🌟 Goals
 
-I'm always looking for opportunities to work with cutting-edge technologies and innovative teams. Let's connect and explore exciting projects together!
+I always seek opportunities to work with cutting-edge technologies and innovative teams. Let's connect and explore exciting projects together!
 
 ### 📫 Get in Touch
 
 - LinkedIn: [anikets95](https://www.linkedin.com/in/anikets95/)
 - Twitter: [anikets95](https://twitter.com/anikets95)
 
-Feel free to reach out if you'd like to collaborate, discuss technology, or just have a friendly chat. 😊
+Feel free to reach out if you'd like to collaborate, discuss technology, or have a friendly chat. 😊
 
 You can also check out my professional profile README here : [aniket-amagi](https://www.github.com/aniket-amagi) 
 
